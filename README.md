@@ -132,17 +132,6 @@ The optocouplers provide electrical isolation between the high-voltage charging 
                      │
                      ▼
                 H-Bridge
-```
-
-**Circuit**
-
-```
-Charging_Polarity_Circuit.jpg
-```
-
-```markdown
-![Charging Polarity Detection Circuit](Charging_Polarity_Circuit.jpg)
-```
 
 ---
 
@@ -359,18 +348,6 @@ Testing included:
 - H-bridge switching
 
 During constant-voltage testing, the charger maintained approximately 16.8 V, while charging current gradually decreased as the battery approached full charge.
-
----
-
-## 🎥 Demonstration
-
-**Autonomous Docking Demonstration**
-
-The following demonstration shows the UAV landing and establishing contact with the autonomous charging station.
-
-<!-- Add your GitHub-hosted video here -->
-
-▶ Watch the Autonomous Docking Demonstration
 
 ---
 
